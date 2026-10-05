@@ -58,3 +58,7 @@ Por lo general el durante el entrenamiento con la prueba han ido parejos lo que 
 
 Observando la gráfica de los valores predichos con los reales esta bastante bien aunque contiene pequeños errores. Para comprobar su rendimiento de forma numérica utilizaremos las siguientes métricas
 
+![métricas](./imagenes/métricas.png)
+
+Observando un $R^2$ muy alto implicando que el modelo ha predicho con exactitud la mayoría de los datos y una correlación fuerte con los datos reales. Mostrando que el modelo ha sido capaz de predecir correctamente la variable objetivo.
+
